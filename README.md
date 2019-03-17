@@ -6,10 +6,10 @@ Hi guys,
 
 * The script is currently in beta. *
 
-**System requirements: 
+*System requirements: 
 
-**CentOS 6 and CentOS 7
-**Ubuntu(Just creating ramdisk.)
+*CentOS 6 and CentOS 7
+*Ubuntu(Just creating ramdisk.)
 
 What is Multi Optimization Bashcript?
 
@@ -18,16 +18,16 @@ Multioptincludes automatic ramdisk installation as well as making basic configur
 Security optimization, automatic control panel installation and optimizations will be published in the following days. Please follow the updates.
 
 ****************************************************************
-**Current features:                                            *
+* Current features:                                            *
 *                                                              *
-**Basic Optimization.                                          *            
-**Creating ramdisk.                                            *     
+* Basic Optimization.                                          *            
+* Creating ramdisk.                                            *     
 *                                                              *
-**Expected features:                                           *
+* Expected features:                                           *
 *                                                              *
-**Security optimization.                                       *
-**Automatic control panel installations and optimizations.     *
-**Openlitespeed installation and configuration. (Automation)   *
+* Security optimization.                                       *
+* Automatic control panel installations and optimizations.     *
+* Openlitespeed installation and configuration. (Automation)   *
 ****************************************************************
 This script will provide convenience for system administrators who do data hosting work like me.
 
