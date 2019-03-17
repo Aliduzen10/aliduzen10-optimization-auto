@@ -1,5 +1,6 @@
 # aliduzen10-optimization-auto
-Multi Optimization Bashscript
+Multi Optimization Bashscript.
+
 Hi guys,
 
 I would like to inform you that I am not responsible if the script causes any errors.
